@@ -1,4 +1,5 @@
 /******
+path added
   Trailing zeroes in factorial 
   For an integer N find the number of trailing zeroes in N!.
 
